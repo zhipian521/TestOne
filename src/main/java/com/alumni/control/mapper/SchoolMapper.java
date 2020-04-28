@@ -20,4 +20,5 @@ public interface SchoolMapper extends Mapper<SchoolDo> {
      * @return 结果集
      */
     List<SchoolDo> getSchools();
+
 }
